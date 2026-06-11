@@ -6,7 +6,7 @@ public class DVD {
     private String formato;
     private boolean disponible;
 
-    public DVD(String titulo, String director, String genero, String formato, boolean disponible) {
+    public DVD(String titulo, String director, String genero, String formato) {
         this.titulo = titulo;
         this.director = director;
         this.genero = genero;
